@@ -11,4 +11,4 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Dippp10?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="Dippp10's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Dippp10?cardType=level&fontFamily=&preferLogin=false" />  </a>
 
-
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Dippp10"/>
